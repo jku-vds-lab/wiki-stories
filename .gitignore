@@ -2,5 +2,6 @@
 apicache-py3
 *.lwp
 *.ctrl
+__pycache__
 
 wiki-test.ipynb
